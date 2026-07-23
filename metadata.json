@@ -1,0 +1,6 @@
+{
+  "name": "Modelador Digital de Frecuencia Cardíaca",
+  "description": "Simulador y diseñador secuencial síncrono para el control temporizado de frecuencia cardíaca (QRS, Bradicardia, Ritmo Normal, Taquicardia) con diagramas de tiempos, máquina de estados y tablas de excitación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
